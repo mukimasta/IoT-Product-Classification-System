@@ -21,7 +21,8 @@ The design uses the STM32F103 microprocessor and judges whether magnetic tiles h
 
 **原理图设计**
 
-![pcb设计-page-00001](https://github.com/mukimasta/IoT-Product-Classification-System/assets/64091002/2d53303d-79e4-43fb-945b-22cfc84d9326)
+<img width="1242" alt="image" src="https://github.com/user-attachments/assets/7c8ad594-13f2-4613-b0af-7b1beaca2589">
+
 
 
 **PCB设计**
